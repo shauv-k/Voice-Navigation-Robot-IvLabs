@@ -7,4 +7,5 @@ This is a personal repository for the IvLabs Voice-Nav Robot Project. We will be
 ## Methodology
 
 * Turtlesim
-  Initially, we tested various tasks in turtlesim such as trajectories, go to goal behaviour, turtlefollower etc. to familiarize ourselves with ROS.
+
+Initially, we tested various tasks in turtlesim such as trajectories, go to goal behaviour, turtlefollower etc. to familiarize ourselves with ROS.
