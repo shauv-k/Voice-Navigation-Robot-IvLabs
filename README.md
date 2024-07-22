@@ -51,9 +51,9 @@ BASIC SIMULATION:
    ```
    roslaunch turtlebot3_gazebo turtlebot3_world.launch
    ```
-4) To perform teleoperations open another terminal adn run the following.
+4) To perform teleoperations open another terminal and run the following.
    ```
-   export TURTLEBOT3_MODEL=burger
+   nd ort TURTLEBOT3_MODEL=burger
    roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
    ```
    
