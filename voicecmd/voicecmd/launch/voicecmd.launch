@@ -1,5 +1,0 @@
-<launch>
-    <include file = "$(find turtlebot3_gazebo)/launch/turtlebot3_empty_world.launch"/>
-    <node pkg = "voicecmd" type = "voice_rgn.py" name = "voice_rgn"/>
-    <node pkg = "voicecmd" type = "voice_cmd.py" name = "voice_cmd"/>
-</launch>
