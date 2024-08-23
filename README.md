@@ -53,7 +53,7 @@ BASIC SIMULATION:
    ```
 4) To perform teleoperations open another terminal and run the following.
    ```
-   nd ort TURTLEBOT3_MODEL=burger
+   export TURTLEBOT3_MODEL=burger
    roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
    ```
    
