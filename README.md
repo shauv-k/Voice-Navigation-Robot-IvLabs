@@ -1,4 +1,4 @@
-# Voice-Navigation-Robot-IvLabs
+# Voice-Navigation-Robot
 
 ## Requirements
 
